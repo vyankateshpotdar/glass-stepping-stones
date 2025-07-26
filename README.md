@@ -19,7 +19,6 @@ Test your luck, memory, and courage as you try to cross a deadly glass bridge â€
 - Random bridge generation for each game
 - Optional difficulty setting (number of steps)
 - Win/loss messages with dramatic Squid Game-style pauses
-- Unit tests using `pytest`
 
 ---
 
